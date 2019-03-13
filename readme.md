@@ -1,4 +1,4 @@
-# No-Sweat™ Eslint and Prettier Setup
+# Eslint and Prettier Setup
 
 These are my settings for ESLint and Prettier
 
